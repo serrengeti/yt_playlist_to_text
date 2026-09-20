@@ -4,3 +4,9 @@ output/
 audio/
 __pycache__/
 *.pyc
+*.mp3
+*.webm
+*.m4a
+.venv/
+venv/
+%APPDATA%/
