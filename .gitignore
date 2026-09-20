@@ -1,0 +1,6 @@
+cookies.txt
+.env
+output/
+audio/
+__pycache__/
+*.pyc

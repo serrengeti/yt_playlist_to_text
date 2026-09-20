@@ -1,0 +1,4 @@
+--cookies C:/Users/ha997/Desktop/YT_playlist_to_text/cookies.txt
+--js-runtimes node
+--remote-components ejs:github
+--extractor-args youtube:player_client=web_creator,tv
